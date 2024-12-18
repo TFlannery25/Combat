@@ -1,7 +1,7 @@
 # Combat
 3D First Person Shooter
 
-Combat is a first-person shooter game that I developed in 2022. The game features a small 3D city space in which the player fights off enemies by shooting them for as long as possible until they die.
+Combat is a first-person shooter game that I developed in 2022. The game features a small 3D city space in which the player fights off enemies by shooting them, with the objective of surviving as long as possible.
 
 # The Player
 > The player controls their character from a first-person point of view using W, A, S, D to move forward, left, right, and backward, as well as the spacebar to jump. The player is equipped with a gun that fires a hitscan bullet when left-clicking. The player starts with 200 health, which is displayed by the blue health bar in the bottom left of the screen.
